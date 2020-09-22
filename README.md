@@ -8,5 +8,6 @@ The agents were trained and tested against the “Fire” robot, which is one of
 The tanks can be selected directly from the Robocode GUI following the coming steps:
 - Create the JAR archive of the selected agent
 - Copy the JAR file in the robocode/robots/ folder
+
 Further details on this and on Robocode in general can be found on the [Wiki page](https://robowiki.net/wiki/Robocode)
 
